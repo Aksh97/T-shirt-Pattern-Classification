@@ -1,0 +1,2 @@
+1. For training run the T-shirt classifier python notebook
+2. Testing Script can be run to test new images(The directory should have the model.h5 file obtained from training process)
